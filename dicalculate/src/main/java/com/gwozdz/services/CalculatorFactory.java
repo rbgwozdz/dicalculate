@@ -1,6 +1,6 @@
 package com.gwozdz.services;
 
-
+//Comment
 public class CalculatorFactory {
 	public CalculatorService createCalculatorService(String operator) {
 		CalculatorService calculatorService = null;
